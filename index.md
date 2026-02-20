@@ -389,15 +389,7 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
-| Date | Time | Topic | Instructors |
-|:---:|:---:|:---|:---|
-| **May 11** | 09:00 | Library Carpentry: Tidy Data | Cody Hennesy, Jose Niño Muriel |
-| **May 12** | 09:00 | Library Carpentry: The UNIX Shell | Jamie Jamison, TBD |
-| **May 13** | 09:00 | Library Carpentry: Introduction to Git | Tim Dennis, Seth Erickson |
-| | | *Break (No sessions May 14–17)* | |
-| **May 18** | 09:00 | Library Carpentry: OpenRefine | Ryan Horne, Jamie Jamison |
-| **May 19** | 09:00 | Library Carpentry: Python (Part 1) | Derek Devnich, Ryan Horne |
-| **May 20** | 09:00 | Library Carpentry: Python (Part 2) | Derek Devnich, Ryan Horne |
+{% include lc/schedule.html %}
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
