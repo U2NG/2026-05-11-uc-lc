@@ -10,8 +10,8 @@ humandate: "May 11-20, 2026"
 humantime: "9:00 am - 12:00 pm PT"
 startdate: 2026-05-11
 enddate: 2026-05-20
-instructor: ["Cody Hennesy", "Jose Niño Muriel", "Jamie Jamison", "Tim Dennis", "Seth Erickson", "Ryan Horne", "Derek Devnich"]
-helper: ["Dave George", "Kristi Liu", "Jamie Jamison", "Geno Sanchez"]
+instructor: ["Cody Hennesy(UCB)", "Jose Niño Muriel (UCSB)", "Jamie Jamison (UCLA)", "Tim Dennis (UCLA)", "Seth Erickson (UCSB)", "Ryan Horne (UCLA)", "Derek Devnich (UCM)"]
+helper: ["Dave George (UCLA)", "Kristi Liu (UCSV)", "Geno Sanchez (UCLA)"]
 email: ["tdennis@library.ucla.edu"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes
 eventbrite:           # optional: alphanumeric key for Eventbrite registration
