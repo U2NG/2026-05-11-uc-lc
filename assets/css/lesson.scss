@@ -414,3 +414,17 @@ summary {
     margin-bottom: 20px;
     font-size: medium;
 }
+
+.btn-primary {
+  background-color: #005587;
+  border-color: #00446b;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #003f63;
+  border-color: #00334f;
+  color: #ffffff;
+}
