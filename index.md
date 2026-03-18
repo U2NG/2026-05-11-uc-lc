@@ -82,6 +82,9 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
+<iframe src="https://ucla.zoom.us/meeting/register/9tQoXLE4Q1C-0NfDZndXrg" width="1000px" height="500px"></iframe>
+
+
 {% comment %}
 INTRODUCTION
 
