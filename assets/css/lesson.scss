@@ -415,24 +415,12 @@ summary {
     font-size: medium;
 }
 
-.btn-primary {
-  background-color: #005587;
-  border-color: #00446b;
-  color: #ffffff;
-  font-weight: 600;
-}
-
-.btn-primary:hover,
-.btn-primary:focus {
-  background-color: #003f63;
-  border-color: #00334f;
-  color: #ffffff;
-}
-#general .alert-info .btn.btn-primary,
-#general .alert-info .btn.btn-primary:visited,
-#general .alert-info .btn.btn-primary:hover,
-#general .alert-info .btn.btn-primary:focus,
-#general .alert-info .btn.btn-primary:active {
+#general .alert-info a.btn.btn-primary,
+#general .alert-info a.btn.btn-primary:link,
+#general .alert-info a.btn.btn-primary:visited,
+#general .alert-info a.btn.btn-primary:hover,
+#general .alert-info a.btn.btn-primary:focus,
+#general .alert-info a.btn.btn-primary:active {
   background-image: none;
   background-color: #005587;
   border-color: #00446b;
@@ -440,11 +428,4 @@ summary {
   text-shadow: none;
   font-weight: 600;
   text-decoration: none;
-}
-
-#general .alert-info .btn.btn-primary:hover,
-#general .alert-info .btn.btn-primary:focus {
-  background-color: #003f63;
-  border-color: #00334f;
-  color: #ffffff !important;
 }
