@@ -82,8 +82,13 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
-<iframe src="https://ucla.zoom.us/meeting/register/9tQoXLE4Q1C-0NfDZndXrg" width="1000px" height="500px"></iframe>
-
+<iframe 
+  src="https://ucla.zoom.us/meeting/register/9tQoXLE4Q1C-0NfDZndXrg"
+  width="100%"
+  height="650"
+  style="border:1px solid #ccc; border-radius:6px;"
+  title="Zoom registration form for Library Carpentry workshop">
+</iframe>
 
 {% comment %}
 INTRODUCTION
